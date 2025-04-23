@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: #6ed8f5;
+    color: #0e8398;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #91ceec;
+    border-radius: 15px;
+    background-color: #bce2fb;
+    box-shadow: 0 0 20px #00aaff;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .video-wrapper {
+    margin-top: 20px;
+  }
+  
